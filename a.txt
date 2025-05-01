@@ -1,4 +1,7 @@
 이것은 first에서 수정
 merge 시 충돌예정
 Hello, GIt!
+sss
+Hello, GIt!
+dddd
 즐거운 시간~
